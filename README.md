@@ -1,1 +1,1 @@
-# SQL
+# BI projects
